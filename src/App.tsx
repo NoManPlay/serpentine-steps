@@ -1,10 +1,3 @@
-/*
- * @Author: Tianxing.Qin
- * @Date: 2022-03-24 15:41:07
- * @LastEditors: Tianxing.Qin
- * @LastEditTime: 2022-03-30 14:49:31
- * @Description:
- */
 import classnames from "classnames";
 import * as _ from "lodash";
 import "./styles.less";
