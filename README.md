@@ -1,2 +1,3 @@
 # serpentine-steps
-Created with CodeSandbox
+
+React 蛇形步骤条组件
